@@ -131,19 +131,19 @@ La pizza Carnes queda en la cima y será la primera en salir cuando se realice u
 
 Aquí se muestra el registro de una pizza con sus tres ingredientes.
 
-![Registro de pizzas](capturas/registro.png)
+![Registro de pizzas](capturas/Registro.png)
 
 ### Deshacer
 
 Aquí se muestra el funcionamiento de la opción Deshacer.
 
-![Deshacer](capturas/deshacer.png)
+![Deshacer](capturas/Deshacer.png)
 
 ### Rehacer
 
 Aquí se muestra el funcionamiento de la opción Rehacer.
 
-![Rehacer](capturas/rehacer.png)
+![Rehacer](capturas/Rehacer.png)
 
 ## Video de sustentación
 
