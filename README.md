@@ -149,7 +149,7 @@ Aquí se muestra el funcionamiento de la opción Rehacer.
 
 Video de sustentación del proyecto:
 
-[Ver video de sustentación](AGREGAR_AQUI_EL_ENLACE)
+[Ver video de sustentación](https://drive.google.com/file/d/1MdUwp_3zOd_uY76R93IRxQbTe-ULYg7D/view?usp=sharing)
 
 ## Autor
 
